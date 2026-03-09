@@ -8,7 +8,7 @@ on:
         required: true
         default: 'fahay'
       agent_description:
-        description: 'asc'
+        description: 'fahay'
         required: true
         default: 'fahay AI Agent'
 
